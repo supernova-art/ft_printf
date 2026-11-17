@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_puthex.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: yait-elm <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: yait-elm <yait-elm@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/13 09:47:01 by yait-elm          #+#    #+#             */
 /*   Updated: 2026/11/13 09:47:03 by yait-elm         ###   ########.fr       */

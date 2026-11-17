@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: yait-elm <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: yait-elm <yait-elm@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/13 09:45:52 by yait-elm          #+#    #+#             */
 /*   Updated: 2026/11/16 14:58:52 by yait-elm         ###   ########.fr       */

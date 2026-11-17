@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   handler.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: yait-elm <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: yait-elm <yait-elm@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/16 11:31:59 by yait-elm          #+#    #+#             */
 /*   Updated: 2026/11/16 11:32:01 by yait-elm         ###   ########.fr       */

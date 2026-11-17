@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: yait-elm <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: yait-elm <yait-elm@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/16 13:54:00 by yait-elm          #+#    #+#             */
 /*   Updated: 2026/11/16 13:54:06 by yait-elm         ###   ########.fr       */
