@@ -96,11 +96,6 @@ constant base strings (`"0123456789abcdef"`, `"0123456789ABCDEF"`).
    fails. `ft_printf` adds them up, and on the first -1 it stops, calls
    `va_end` once, and returns -1.
 
-Numbers are printed by recursion: the last digit is computed first
-(`n % base`), but the digits must appear first-to-last, so the function prints
-`n / base` before the last digit. For `255` in hex it prints `f`, then `f`.
-Complexity is linear in the number of digits.
-
 ### Why these choices
 
 - **No buffer:** the subject forbids the original buffer management. Direct
